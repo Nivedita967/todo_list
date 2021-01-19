@@ -1,2 +1,2 @@
 # todo_list
-The to do list to organize work & life :)
+Use this To do list as a way of managing their workload and flow 
